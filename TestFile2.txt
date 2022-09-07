@@ -2,5 +2,4 @@ This is a second test file.
 This line was added to create a pull request.
 
 This is a great edit!
-
-A semi-decent edit.
+This was not a great edit...
