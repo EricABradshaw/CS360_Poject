@@ -1,5 +1,0 @@
-This is a second test file.
-This line was added to create a pull request.
-
-This is a great edit!
-This was not a great edit...
